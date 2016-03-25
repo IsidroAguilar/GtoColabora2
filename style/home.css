@@ -63,7 +63,7 @@ url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.cs
   transition: background 0.1s ease-in-out;
 }
 .menu li a:before {
-background: url("http://gtocolabora.org/wp-content/uploads/2016/03/Menu.png");
+background: url("http://gtocolabora.org/wp-content/uploads/2016/03/Menu.png") !important;
 background-size: 70px 71px;
 background-repeat: no-repeat;
   font-family: FontAwesome;
