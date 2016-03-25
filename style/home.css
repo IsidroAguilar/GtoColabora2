@@ -122,7 +122,6 @@ background-repeat: no-repeat;
 }
 .menu-bar li:first-child a{
     height:5em;
-    background: #267fdd;
     color: #fff;
     line-height:5
 }
